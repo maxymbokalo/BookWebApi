@@ -1,0 +1,15 @@
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.DataAccess\bin\Debug\netcoreapp2.1\BookWebApi.DataAccess.deps.json
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.DataAccess\bin\Debug\netcoreapp2.1\BookWebApi.DataAccess.dll
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.DataAccess\bin\Debug\netcoreapp2.1\BookWebApi.DataAccess.pdb
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.DataAccess\bin\Debug\netcoreapp2.1\BookWebApi.EntityFrameworkCore.dll
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.DataAccess\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.DataAccess\bin\Debug\netcoreapp2.1\BookWebApi.EntityFrameworkCore.pdb
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.DataAccess\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.DataAccess\obj\Debug\netcoreapp2.1\BookWebApi.DataAccess.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.DataAccess\obj\Debug\netcoreapp2.1\BookWebApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.DataAccess\obj\Debug\netcoreapp2.1\BookWebApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.DataAccess\obj\Debug\netcoreapp2.1\BookWebApi.DataAccess.AssemblyInfo.cs
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.DataAccess\obj\Debug\netcoreapp2.1\BookWebApi.DataAccess.csproj.CopyComplete
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.DataAccess\obj\Debug\netcoreapp2.1\BookWebApi.DataAccess.dll
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.DataAccess\obj\Debug\netcoreapp2.1\BookWebApi.DataAccess.pdb
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.DataAccess\bin\Debug\netcoreapp2.1\Pomelo.EntityFrameworkCore.MySql.dll

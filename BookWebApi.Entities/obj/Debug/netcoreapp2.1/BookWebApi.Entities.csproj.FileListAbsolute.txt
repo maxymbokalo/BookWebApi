@@ -1,0 +1,13 @@
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.Entities\bin\Debug\netcoreapp2.1\BookWebApi.Entities.deps.json
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.Entities\bin\Debug\netcoreapp2.1\BookWebApi.Entities.dll
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.Entities\obj\Debug\netcoreapp2.1\BookWebApi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.Entities\obj\Debug\netcoreapp2.1\BookWebApi.Entities.AssemblyInfoInputs.cache
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.Entities\obj\Debug\netcoreapp2.1\BookWebApi.Entities.AssemblyInfo.cs
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.Entities\bin\Debug\netcoreapp2.1\BookWebApi.Entities.pdb
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.Entities\obj\Debug\netcoreapp2.1\BookWebApi.Entities.dll
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.Entities\obj\Debug\netcoreapp2.1\BookWebApi.Entities.pdb
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.Entities\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.Entities\bin\Debug\netcoreapp2.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.Entities\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.Entities\obj\Debug\netcoreapp2.1\BookWebApi.Entities.csproj.CopyComplete
+C:\Users\Max\source\repos\BookWebApi\BookWebApi.Entities\obj\Debug\netcoreapp2.1\BookWebApi.Entities.csprojAssemblyReference.cache
